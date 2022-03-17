@@ -1,0 +1,19 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>img/load.gif</file>
+    <file>img/settings.svg</file>
+    <file>img/sent-mail.svg</file>
+    <file>img/research.svg</file>
+    <file>img/question.svg</file>
+    <file>img/phone-book.svg</file>
+    <file>img/hiring.svg</file>
+    <file>img/goal.svg</file>
+    <file>img/export-file.svg</file>
+    <file>img/exit.svg</file>
+    <file>img/excel.svg</file>
+    <file>img/document-with-paperclip.svg</file>
+    <file>img/checked.svg</file>
+    <file>img/cancel.svg</file>
+    <file>img/aguia.svg</file>
+  </qresource>
+</RCC>
